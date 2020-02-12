@@ -1,0 +1,8 @@
+h1{color:#009900;}
+body{color:#000099; 
+font-size:15px;}
+body {background-color: #aaa;}
+table, th, td {
+  border: 1px solid black;
+}
+fieldset{width: 1090px;}
